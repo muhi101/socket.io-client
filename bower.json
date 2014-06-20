@@ -1,0 +1,21 @@
+{
+  "name": "fork-socket-io-client",
+  "main": "index.js",
+  "version": "1.0.6",
+  "homepage": "https://github.com/muhi101/socket.io-client",
+  "authors": [
+    "Mohammed Jakda <mohammed.jakda@ink-global.com>"
+  ],
+  "description": "inktad.version",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
