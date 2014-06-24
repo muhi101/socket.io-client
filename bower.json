@@ -1,6 +1,6 @@
 {
   "name": "fork-socket-io-client",
-  "main": "index.js",
+  "main": "socket.io.js",
   "version": "1.0.6",
   "homepage": "https://github.com/muhi101/socket.io-client",
   "authors": [
