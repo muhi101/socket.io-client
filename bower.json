@@ -1,21 +1,31 @@
 {
-  "name": "fork-socket-io-client",
-  "main": "socket.io.js",
-  "version": "1.0.6",
-  "homepage": "https://github.com/muhi101/socket.io-client",
-  "authors": [
-    "Mohammed Jakda <mohammed.jakda@ink-global.com>"
-  ],
-  "description": "inktad.version",
-  "moduleType": [
-    "node"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "name": "fork-socket-io-client",
+    "homepage": "https://github.com/muhi101/socket.io-client",
+    "version": "1.0.4",
+    "_release": "1.0.4",
+    "_resolution": {
+        "type": "version",
+        "tag": "1.0.4",
+        "commit": "6a6e40c8f6f354a527d6028588343e9af7af4a6b"
+    },
+    "_source": "git://github.com/muhi101/socket.io-client.git",
+    "_target": "1.0.4",
+    "_originalSource": "fork-socket-io-client",
+    "main": "socket.io.js",
+    "authors": [
+                "Mohammed Jakda <mohammed.jakda@ink-global.com>"
+                ],
+    "description": "inkTad",
+    "moduleType": [
+                   "amd"
+                   ],
+    "license": "MIT",
+    "ignore": [
+               "**/.*",
+               "node_modules",
+               "bower_components",
+               "app/bower_components",
+               "test",
+               "tests"
+               ]
 }
